@@ -1,2 +1,2 @@
 # developersnahid
-website-link:developersnahid.netlify.app
+website-link:  https://developersnahid.netlify.app/

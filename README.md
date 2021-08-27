@@ -1,2 +1,2 @@
 # developersnahid
-website-linl:developersnahid.netlify.app
+website-link:developersnahid.netlify.app
